@@ -1,8 +1,8 @@
 # Ideal-Sampling
 
-# sharun N
+## sharun N
 
-# 212223060257
+## 212223060257
 
 ## Aim
 The aim of this program is to demonstrate the concept of ideal sampling by discretizing a continuous signal at
